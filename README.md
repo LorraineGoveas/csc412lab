@@ -1,6 +1,7 @@
 # Welcome to Spill
 
-## What is Spill?
+<img src="spilllogo.png" width="600" height="400" />
+
 
 
 Spill is a website where users share information about environmental issues. Users
